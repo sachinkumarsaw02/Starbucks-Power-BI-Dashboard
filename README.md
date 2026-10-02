@@ -6,7 +6,7 @@ An interactive Power BI dashboard created to analyze Starbucks beverage data and
 
 📊 Dashboard Preview
 
-"Starbucks Power BI Dashboard" (Dashboard/Starbucks_Dashboard.png)
+![Starbucks Power BI Dashboard](Dashboard/Starbucks_Dashboard.png)
 
 🎯 Project Objective
 
