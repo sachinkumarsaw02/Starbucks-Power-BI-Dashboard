@@ -1,18 +1,18 @@
-☕ Starbucks Power BI Dashboard
+## ☕ Starbucks Power BI Dashboard
 
 Interactive Starbucks Beverage & Business Insights Dashboard
 
 An interactive Power BI dashboard created to analyze Starbucks beverage data and present key business and nutritional insights through an easy-to-understand visual report.
 
-📊 Dashboard Preview
+## 📊 Dashboard Preview
 
 ![Starbucks Power BI Dashboard](Dashboard/Starbucks_Dashboard.png)
 
-🎯 Project Objective
+## 🎯 Project Objective
 
 The objective of this project is to transform Starbucks beverage data into meaningful visual insights using Power BI, allowing users to explore beverage categories, nutritional metrics, caffeine levels, and Starbucks' global presence.
 
-🔍 Key Insights
+## 🔍 Key Insights
 
 The dashboard provides analysis of:
 
@@ -27,7 +27,7 @@ The dashboard provides analysis of:
 - Top 5 beverages with the highest caffeine content
 - Interactive filtering based on selected criteria
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 - Interactive Power BI visuals
 - KPI cards
@@ -39,7 +39,7 @@ The dashboard provides analysis of:
 - Visual comparison of beverage categories
 - Clean and user-friendly dashboard design
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 - Power BI – Dashboard development and visualization
 - Microsoft Excel / CSV – Data source
@@ -65,7 +65,7 @@ The dashboard provides analysis of:
     │   └── logo.png
     └── README.md
 
-🚀 How to Use
+## 🚀 How to Use
 
 1. Download or clone this repository.
 2. Open the "Dashboard" folder.
@@ -73,7 +73,7 @@ The dashboard provides analysis of:
 4. Ensure the CSV files in the "Data" folder are available if Power BI asks for the data source.
 5. Explore the interactive dashboard and filters.
 
-📌 Project Highlights
+## 📌 Project Highlights
 
 This project demonstrates practical skills in:
 
@@ -86,7 +86,7 @@ This project demonstrates practical skills in:
 - Power BI
 - Working with CSV datasets
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Sachin Kumar Sahu
 
