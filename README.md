@@ -49,15 +49,12 @@ The dashboard provides analysis of:
 📁 Repository Structure
 
 Starbucks-Power-BI-Dashboard/
-│
 ├── Dashboard/
 │   ├── Starbucks_Dashboard.pbix
 │   └── Starbucks_Dashboard.png
-│
 ├── Data/
 │   ├── starbucks.csv
 │   └── directory.csv
-│
 ├── Image & Resources/
 │   ├── Classic Espresso.png
 │   ├── Frappuccino Blended coffee.png
@@ -66,7 +63,6 @@ Starbucks-Power-BI-Dashboard/
 │   ├── coffee.png
 │   ├── dashboard-template.png
 │   └── logo.png
-│
 └── README.md
 
 🚀 How to Use
