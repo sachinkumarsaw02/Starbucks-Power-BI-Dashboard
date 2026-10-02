@@ -46,24 +46,24 @@ The dashboard provides analysis of:
 - Data Cleaning – Data preparation and validation
 - Data Visualization – Charts, KPIs and interactive visuals
 
-📁 Repository Structure
+## 📁 Repository Structure
 
-Starbucks-Power-BI-Dashboard/
-├── Dashboard/
-│   ├── Starbucks_Dashboard.pbix
-│   └── Starbucks_Dashboard.png
-├── Data/
-│   ├── starbucks.csv
-│   └── directory.csv
-├── Image & Resources/
-│   ├── Classic Espresso.png
-│   ├── Frappuccino Blended coffee.png
-│   ├── Frappuccino Light Blended Coffee.png
-│   ├── Iced Beverages.png
-│   ├── coffee.png
-│   ├── dashboard-template.png
-│   └── logo.png
-└── README.md
+    Starbucks-Power-BI-Dashboard/
+    ├── Dashboard/
+    │   ├── Starbucks_Dashboard.pbix
+    │   └── Starbucks_Dashboard.png
+    ├── Data/
+    │   ├── starbucks.csv
+    │   └── directory.csv
+    ├── Image & Resources/
+    │   ├── Classic Espresso.png
+    │   ├── Frappuccino Blended coffee.png
+    │   ├── Frappuccino Light Blended Coffee.png
+    │   ├── Iced Beverages.png
+    │   ├── coffee.png
+    │   ├── dashboard-template.png
+    │   └── logo.png
+    └── README.md
 
 🚀 How to Use
 
