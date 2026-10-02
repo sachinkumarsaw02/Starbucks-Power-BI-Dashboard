@@ -88,7 +88,7 @@ This project demonstrates practical skills in:
 
 ## 👨‍💻 Author
 
-Sachin Kumar Sahu
+Sachin Kumar Saw
 
 Computer Science Graduate | Data Analytics Enthusiast
 
